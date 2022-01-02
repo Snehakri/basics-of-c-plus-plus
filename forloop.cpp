@@ -1,18 +1,19 @@
-// #include<iostream>
-// using namespace std;
-// int main()
-// {
-//     string s;
-//     cin>>s;
-//     for(int i=0;i<s.length();i++)
-//     {
-//         if(i%3!=0){
-//             cout<<s[i];
-//         }
-//     }
-// }
+//check out number divisible by 3
+#include<iostream>
+using namespace std;
+int main()
+{
+    string s;
+    cin>>s;
+    for(int i=0;i<s.length();i++)
+    {
+        if(i%3!=0){
+            cout<<s[i];
+        }
+    }
+}
 
-
+// find out max and min number
 #include<iostream>
 using namespace std;
 int main()
