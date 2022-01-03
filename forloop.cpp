@@ -1,4 +1,4 @@
-//check out number divisible by 3
+//check out number divisible by 3 of string
 #include<iostream>
 using namespace std;
 int main()
